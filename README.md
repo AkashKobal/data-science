@@ -1,4 +1,4 @@
 # Applied-Data-Science
-Big Mart Sales Prediction
-Credit Card Fraud Detection
-Mashroom Classification 
+1. Big Mart Sales Prediction
+2. Credit Card Fraud Detection
+3. Mashroom Classification 
