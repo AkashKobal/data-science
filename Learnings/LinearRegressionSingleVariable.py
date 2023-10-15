@@ -26,6 +26,7 @@ plt.xlabel("area(sq ft)") #labeling the x-axis
 plt.ylabel("price(INR)") #labeling the y-axis
 
 reg = linear_model.LinearRegression() #creating an object for linear regression using linear_model package from sklearn
+# reg is the model name 
 reg.fit(df[["area"]],df.price) #fit the data (training the model with available data set)
 #passing the argumnents i,e dataFrame in 2D as x-axis and price as y-axis
 #know, It is ready to predict the price.
