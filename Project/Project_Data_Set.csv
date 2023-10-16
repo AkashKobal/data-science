@@ -1,0 +1,10 @@
+column1,column2,column3,column4,result
+one,1,23,987,
+one,2,26,,
+two,3,24,546,
+three,5,56,256,
+,8,57,486,
+five,,59,317,
+six,9,41,452,
+eight,7,23,369,
+ten,5,,741,
