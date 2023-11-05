@@ -5,4 +5,4 @@
 4. Iris Data Set
 5. Heart Disease Prediction
 6. Stock Price Prediction
-7. Linear Regression (Single LinearRegression)
+7. Linear Regression (Single Variable)
