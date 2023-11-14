@@ -3,7 +3,7 @@
 1. Big Mart Sales Prediction<br>
 2. Credit Card Fraud Detection<br>
 3. Mashroom Classification<br>
-4. Iris Data Set<br>
+4. Iris Prediction<br>
 5. Heart Disease Prediction<br>
 6. Stock Price Prediction<br>
 
