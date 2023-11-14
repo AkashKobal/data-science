@@ -14,3 +14,4 @@
 4. Save Model Using Joblib and Pickle<br>
 5. Dummy Variable and One Hot Encoding<br>
 6. Training and Testing Data<br>
+7. Logistic Regression(Binary Classification)<br>
