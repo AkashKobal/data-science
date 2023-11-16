@@ -7,11 +7,10 @@
 5. Heart Disease Prediction<br>
 6. Stock Price Prediction<br>
 
-<h3>Tutorial</h3>
+<h3>Tutorial (Code)</h3>
 1. Linear Regression Single Variable<br>
 2. Linear Regression Multiple Variable<br>
 3. Gradient Decent and Cost Function<br>
 4. Save Model Using Joblib and Pickle<br>
 5. Dummy Variable and One Hot Encoding<br>
 6. Training and Testing Data<br>
-
