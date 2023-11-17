@@ -1,5 +1,6 @@
 # Data-Science
-<h3>Data Science Project</h3>
+<h5>Data Science Project</h5>
+<h3>Level 1</h3>
 1. Big Mart Sales Prediction<br>
 2. Credit Card Fraud Detection<br>
 3. Mashroom Classification<br>
