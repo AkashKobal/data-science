@@ -1,4 +1,4 @@
-# Applied-Data-Science
+# Data-Science
 <h3>Data Science Project</h3>
 1. Big Mart Sales Prediction<br>
 2. Credit Card Fraud Detection<br>
