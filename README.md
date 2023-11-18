@@ -26,4 +26,6 @@
 7. Logistic Regression (Binary Classification)<br>
 8. Logistic Regression (Multiclass Classification)<br>
 9. Decision Tree<br>
-10. Support Vector Machine (SVM)
+10. Support Vector Machine (SVM)<br>
+
+<h3> Deep Learning</h3>
