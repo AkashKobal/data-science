@@ -1,4 +1,12 @@
 # Data-Science
+1) Python
+2) Jupyter Notebook
+3) Numpy
+4) Pandas
+5) Matplotlib for data visualization
+6)  Machine Learning using sklearn
+7) Deep learning using tensorflow 2.0
+
 <h3>Data Science Project</h3>
 
 1. Big Mart Sales Prediction<br>
@@ -8,7 +16,7 @@
 5. Heart Disease Prediction<br>
 6. Stock Price Prediction<br>
 
-<h3>Tutorials</h3>
+<h3> Machine Learning</h3>
 1. Linear Regression Single Variable<br>
 2. Linear Regression Multiple Variable<br>
 3. Gradient Decent and Cost Function<br>
