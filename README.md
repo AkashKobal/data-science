@@ -28,5 +28,5 @@
 9. Decision Tree<br>
 10. Support Vector Machine (SVM)<br>
 
-<h3> Deep Learning</h3><br>]
-1. [Potato Disease Classification] (https://github.com/AkashKobal/potato-disease-classification.git)
+<h3> Deep Learning</h3><br>
+1. [Potato Disease Classification](https://github.com/AkashKobal/potato-disease-classification.git)
