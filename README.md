@@ -27,6 +27,7 @@
 8. Logistic Regression (Multiclass Classification)<br>
 9. Decision Tree<br>
 10. Support Vector Machine (SVM)<br>
+11. Random Forest<br>
 
 <h3> Deep Learning</h3><br>
 1. [Potato Disease Classification](https://github.com/AkashKobal/potato-disease-classification.git)
