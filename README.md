@@ -5,7 +5,7 @@
 4) Pandas
 5) Matplotlib for data visualization
 6)  Machine Learning using sklearn
-7) Deep learning using tensorflow 2.0
+7) Deep learning using tensorflow 2.0 
 
 <h3>Data Science Project</h3>
  
