@@ -3,7 +3,7 @@
 2) Jupyter Notebook
 3) Numpy
 4) Pandas
-5) Matplotlib for data visualization
+5) Matplotlib for data visualization 
 6)  Machine Learning using sklearn
 7) Deep learning using tensorflow 2.0 
 
