@@ -8,7 +8,7 @@
 7) Deep learning using tensorflow 2.0 
 
 <h3>Data Science Project</h3>
- 
+  
 1. Big Mart Sales Prediction<br> 
 2. Credit Card Fraud Detection<br> 
 3. Mashroom Classification<br>
