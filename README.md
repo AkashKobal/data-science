@@ -13,7 +13,7 @@
 2. Credit Card Fraud Detection<br>  
 3. Mashroom Classification<br> 
 4. Iris Prediction<br>
-5. Heart Disease Prediction<br> 
+5. Heart Disease Prediction<br>  
 6. Stock Price Prediction<br>
 
 <h3> Machine Learning</h3>
